@@ -1,0 +1,32 @@
+# Virtual environments
+.bipedalvenv/
+venv/
+.env/
+
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Model artifacts
+checkpoints/
+saved_models/
+*.pth
+*.pt
+*.ckpt
+
+# Build artifacts
+build/
+cmake-build*/
+*.so
+*.dll
+*.dylib
+
+# OS/editor
+.DS_Store
+Thumbs.db
+.vscode/
