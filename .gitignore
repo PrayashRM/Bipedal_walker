@@ -30,3 +30,12 @@ cmake-build*/
 .DS_Store
 Thumbs.db
 .vscode/
+
+# video files
+*.mp4
+*.avi
+*.mov
+*.mkv
+.json
+
+.env
